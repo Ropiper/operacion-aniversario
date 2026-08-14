@@ -156,7 +156,7 @@ const GAME_CONFIG = {
     title: "🎉 ¡LO HAS LOGRADO!",
     message: "Has decodificado todos los archivos de la operación.",
     locationText: "Tu regalo está escondido en:",
-    location: "El lugar que Tusita pierde sus pelotas.", // Ejemplo: "Debajo de tu almohada" o "En la nevera"
+    location: "El lugar en el que Tusita pierde sus pelotas.", // Ejemplo: "Debajo de tu almohada" o "En la nevera"
     instructions: "Ve a buscarlo ahora. Cuando lo encuentres y abras la tarjeta con el código, vuelve a esta web para desbloquear el final romántico. 💝"
   },
 
