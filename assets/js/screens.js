@@ -267,8 +267,8 @@ const Screens = {
 
           <div class="challenge-content">
             <h3>¡Casi lo tenemos!</h3>
-            <p>Abre la tarjeta del regalo y introduce el código que encontraste.</p>
-            <p class="hint">Formato: XXX-XXX-XXX (sin espacios)</p>
+            <p>Introduce el código de la tarjeta.</p>
+            <p class="hint">Formato: XXXXXXX</p>
 
             <div id="final-result" class="result-area"></div>
 
