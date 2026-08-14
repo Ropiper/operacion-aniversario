@@ -220,7 +220,7 @@ function selectChallenge3Option(selectedOption, correctAnswer, explanation) {
     resultArea.innerHTML = `
       <div class="result failure">
         <h3>❌ Incorrecto.</h3>
-        <p>La respuesta correcta era: <strong>${correctAnswer === 'A' ? 'A' : 'B'}</strong></p>
+        <p>La respuesta correcta era: <strong>${correctAnswer}</strong></p>
         <p>${explanation}</p>
         <button class="btn-secondary" onclick="resetChallenge3Selection()">
           REINTENTAR
